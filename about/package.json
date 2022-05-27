@@ -7,7 +7,7 @@
     "test": "mocha *.spec.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.3.6",
